@@ -1,0 +1,15 @@
+.app {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  padding: 20px;
+  background-color: #eef2f3;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 36px;
+  color: #007bff;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  text-transform: uppercase;
+}
